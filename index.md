@@ -8,13 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Islam Chekhar
+Elève ingénieur en energie et numerique
 
 
-Disponible XX mois à partir de Date
+Disponible 2 mois à partir de 15 juin 2025
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Islam.Chekhar[at]unilasalle.fr](mailto:Islam.Chekhar@unilasalle.fr)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
