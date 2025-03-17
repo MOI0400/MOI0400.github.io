@@ -14,7 +14,7 @@ download_cv: assets/docs/Template_CV.pdf
 Elève ingénieur en [energie et numerique]
 * Cours : préciser les cours en phase avec le poste visé
 
-`20XX`
+`2024`
 Bac [STI2D, SIN], mention assez bien, 04100 Manosque lycée Les Iscles
 
 ## Expériences
