@@ -1,67 +1,62 @@
 ---
 layout: page
 title: Mon parcours
-description: "Ceci est un exemple de CV que vous pouvez générer par vous-même"
+description: "Voici mon CV avec mon parcours et mes loisirs"
 menubar: menu_bar
 download_cv: assets/docs/Template_CV.pdf
 ---
 
 ## Formation 
 
-`20XX – 20XX`
-**Nom de votre école**
+`2024 – 2029`
+**UNILASALLE**
 
-Elève ingénieur en [préciser la spécialité]
-* Cours : préciser les cours en phase avec le poste visé
-
-`20XX – 20XX`
-**DUT [préciser la spécialité]** - Université [préciser le lieu]
+Elève ingénieur en [energie et numerique]
 * Cours : préciser les cours en phase avec le poste visé
 
 `20XX`
-Bac [préciser la spécialité], mention éventuelle, Lieu
+Bac [STI2D, SIN], mention assez bien, 04100 Manosque lycée Les Iscles
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2023` **Projet d’étude – bras robotiser**
 
 _Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+* codage d'une manette de contrôle (Arduino)
+* conception mechanique (SolidWorks)
+* codage du bras et la communication entre lui et la manette (Arduino)
 
+`2024-2025` **Unimakers, Association de robotique., 50 membres**
 
-`20XX` **Entreprise, secteur activité, description site rejoint, taille, ville**
-
-_Stage – intitulé du poste_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-
-`20XX` **Association, description de l’asso., taille**
-
-_Intitulé du poste dans une équipe de XX membres_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Participation à la Coupe de France de Robotique (rôle polyvalant) dans une equipe de 5 membres 
+* Programmation d'un robot autonome (VisualStudio, C++)
+* Conception en 3D (OnShape)
 
 ## Compétences
 
 Langues
-* LV1 à préciser : niveau à préciser (résultat d’examen)
-* LV2 à préciser : niveau à préciser (résultat d’examen)
+* LV1 Anglais : niveau (B2+)
+* LV2 Arabe : langue natale
+* LV3 Japonais : niveau debutant
 
 Informatique
-* Logiciels maitrisés
-* Logiciels maitrisés
+* VisualStudio
+* OnShape
+* SolidWorks
+* Arduino
 
 Autres
-* Autres diplômes ou permis spéciaux
+* Autres diplômes ou permis spéciau
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-* Description 
+Programmation
+* Programmation de jeux video en lua 
+* Realisation de programme pour petit robot
 
-Loisirs 1
-* Description 
-* Description 
+Sport
+*  marche/course
+*  Salle de sport
+
+Modelisation et impression 3D
+*  impression d'objet du quotidien
