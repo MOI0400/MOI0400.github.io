@@ -21,7 +21,7 @@ Bac [STI2D, SIN], mention assez bien, 04100 Manosque lycée Les Iscles
 
 `2023` **Projet d’étude – bras robotiser**
 
-_Réalisé en équipe de XX étudiants_
+_Réalisé en équipe de 3 étudiants_
 * codage d'une manette de contrôle (Arduino)
 * conception mechanique (SolidWorks)
 * codage du bras et la communication entre lui et la manette (Arduino)
